@@ -1,13 +1,12 @@
 {
-  "author": "Josh David Miller",
-  "name": "ngbp",
+  "author": "Data Visualization Capstone Group",
+  "name": "Data Visualization Capstone",
   "version": "0.3.2",
-  "homepage": "https://github.com/ngbp/ngbp",
+  "homepage": "https://github.com/data-visualization-capstone",
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
   },
-  "bugs": "https://github.com/ngbp/ngbp/issues",
   "repository": {
     "type": "git",
     "url": "git@github.com:ngbp/ngbp.git"

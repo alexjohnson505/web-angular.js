@@ -1,7 +1,7 @@
 # Data Visualization Capstone
-## Angular.js Front-End Website for Marketing and Brand
+Angular.js Front-End Website for Marketing and Brand
 
-## Forked from [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate), an opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
+Forked from [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate), an opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
 ***
 

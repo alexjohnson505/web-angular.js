@@ -169,7 +169,7 @@ default with `ngBoilerplate`) you need to tell Live Reload to allow it. Go to
 to the Live Reload plugin.
 
 When you load your page, click the Live Reload icon in your toolbar and
-everything should work magically. w00t!
+everything should work magically.
 
 If you'd prefer to not install a browser extension, then you must add the
 following to the end of the `body` tag in `index.html`:
@@ -181,7 +181,7 @@ following to the end of the `body` tag in `index.html`:
 
 ### Special Thanks
 
-[AngularJS](http://angularjs.org) projects.
+[AngularJS](http://angularjs.org),
 [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate),
 [Twitter Bootstrap](http://getbootstrap.com),
 [Angular UI](http://angular-ui.github.io),

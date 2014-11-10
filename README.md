@@ -19,6 +19,10 @@ $ grunt watch
 
 Finally, open `file:///path/to/ng-boilerplate/build/index.html` in your browser.
 
+> Remember: 
+> EDIT files from /src/
+> OPEN files from /build/
+
 ### Overall Directory Structure
 
 At a high level, the structure looks roughly like this:

@@ -21,6 +21,12 @@ angular.module( 'ngBoilerplate.map', [
   // 
   // console.log(_.map([1,2,3], function(i){return i + 1;}));
 
+      map = L.mapbox.map('map', 'zetter.i73ka9hn')
+      .fitBounds([[42.329077, -71.108871], [42.374200, -71.032072]]);
+
+    initialSelection = d3.set(['Tesco', 'Sainsburys']);
+
+
   
   
 });

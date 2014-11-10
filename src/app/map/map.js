@@ -19,7 +19,8 @@ angular.module( 'ngBoilerplate.map', [
 
 .controller( 'MapCtrl', function AboutCtrl( $scope ) {
   // 
-  
-})
+  // console.log(_.map([1,2,3], function(i){return i + 1;}));
 
-;
+  
+  
+});
